@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "responai2249", "responai2249\responai2249.csproj", "{F862D80A-7CF3-4DB6-ACEC-2DE02A7594F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "responsi2249", "responai2249\responsi2249.csproj", "{F862D80A-7CF3-4DB6-ACEC-2DE02A7594F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
